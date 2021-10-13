@@ -72,7 +72,7 @@ Site=“<site name>”; Path=“<virtual path>“; Tier=“<tier name>”
 
 ## -RemotePath
 
-Location of of source install and configuration files, eg:
+Location of source install and configuration files, eg:
 
 `-RemotePath d:\temp\AppDynamics\`
 
